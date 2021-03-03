@@ -1,6 +1,5 @@
 'use strict'
 const path = require('path')
-mark
 const defaultSettings = require('./src/settings.js')
 
 function resolve(dir) {

@@ -12,7 +12,7 @@ import App from './App'
 import store from './store'
 import router from './router'
 
-import '@/icons' // icon
+import '@/icons' // icon  這裏的@代表的是src路徑，可參照vue.config.js中的configureWebpack.config.resolve節點
 import '@/permission' // permission control
 
 /**
